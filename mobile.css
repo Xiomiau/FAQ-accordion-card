@@ -35,8 +35,8 @@ body {height: 100vh;
 
 .womanShadow {
     position: absolute;
-    top: -13rem;
-    left: 2.5rem;
+    top: 6rem;
+    left: 8rem;
 }
 
 
@@ -46,8 +46,6 @@ body {height: 100vh;
     background-image: url(/images/illustration-woman-online-mobile.svg);
     background-repeat: no-repeat;
 }
-
-
 .shadow {
     width: 24rem;
     height: 15rem;
@@ -56,7 +54,6 @@ body {height: 100vh;
     position: absolute;
     top: 11rem;
 }
-
 
 .title {
     text-align: center;
